@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ERP">
+</Property><Property Name="Solution File" Value="C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\Backup\ERP.sln">
+</Property><Property Name="User Options File" Value="C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\Backup\ERP.suo">
+</Property><Property Name="Date" Value="19 Temmuz 2017 Çarşamba">
+</Property><Property Name="Time" Value="11:51">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ERP.sln" Description="File successfully backed up as C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\Backup\Backup\ERP.sln">
+</Event><Event ErrorLevel="0" Project="" Source="ERP.suo" Description="File successfully backed up as C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\Backup\Backup\ERP.suo">
+</Event><Event ErrorLevel="0" Project="ERP" Source="ERP\ERP.csproj" Description="Project file successfully backed up as C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\Backup\Backup\ERP\ERP.csproj">
+</Event><Event ErrorLevel="0" Project="ERP" Source="ERP\ADMIN.cs" Description="File successfully backed up as C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\Backup\Backup\ERP\ADMIN.cs">
+</Event><Event ErrorLevel="0" Project="ERP" Source="ERP\ADMIN.Designer.cs" Description="File successfully backed up as C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\Backup\Backup\ERP\ADMIN.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ERP" Source="ERP\ANASAYFA.cs" Description="File successfully backed up as C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\Backup\Backup\ERP\ANASAYFA.cs">
+</Event><Event ErrorLevel="0" Project="ERP" Source="ERP\ANASAYFA.Designer.cs" Description="File successfully backed up as C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\Backup\Backup\ERP\ANASAYFA.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ERP" Source="ERP\DAGITIM_VE_LOGISTIK.cs" Description="File successfully backed up as C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\Backup\Backup\ERP\DAGITIM_VE_LOGISTIK.cs">
+</Event><Event ErrorLevel="0" Project="ERP" Source="ERP\DAGITIM_VE_LOGISTIK.Designer.cs" Description="File successfully backed up as C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\Backup\Backup\ERP\DAGITIM_VE_LOGISTIK.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ERP" Source="ERP\ERPDataSet.Designer.cs" Description="File successfully backed up as C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\Backup\Backup\ERP\ERPDataSet.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ERP" Source="ERP\ERP_NEDIR.cs" Description="File successfully backed up as C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\Backup\Backup\ERP\ERP_NEDIR.cs">
+</Event><Event ErrorLevel="0" Project="ERP" Source="ERP\ERP_NEDIR.Designer.cs" Description="File successfully backed up as C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\Backup\Backup\ERP\ERP_NEDIR.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ERP" Source="ERP\GIRIS.cs" Description="File successfully backed up as C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\Backup\Backup\ERP\GIRIS.cs">
+</Event><Event ErrorLevel="0" Project="ERP" Source="ERP\GIRIS.Designer.cs" Description="File successfully backed up as C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\Backup\Backup\ERP\GIRIS.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ERP" Source="ERP\KULLANICI_ISLEMLERI.cs" Description="File successfully backed up as C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\Backup\Backup\ERP\KULLANICI_ISLEMLERI.cs">
+</Event><Event ErrorLevel="0" Project="ERP" Source="ERP\KULLANICI_ISLEMLERI.Designer.cs" Description="File successfully backed up as C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\Backup\Backup\ERP\KULLANICI_ISLEMLERI.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ERP" Source="ERP\MUSTERİ-TEDARIKCI.cs" Description="File successfully backed up as C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\Backup\Backup\ERP\MUSTERİ-TEDARIKCI.cs">
+</Event><Event ErrorLevel="0" Project="ERP" Source="ERP\MUSTERİ-TEDARIKCI.Designer.cs" Description="File successfully backed up as C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\Backup\Backup\ERP\MUSTERİ-TEDARIKCI.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ERP" Source="ERP\M_T_ADRES.cs" Description="File successfully backed up as C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\Backup\Backup\ERP\M_T_ADRES.cs">
+</Event><Event ErrorLevel="0" Project="ERP" Source="ERP\M_T_ADRES.Designer.cs" Description="File successfully backed up as C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\Backup\Backup\ERP\M_T_ADRES.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ERP" Source="ERP\M_T_BANKA.cs" Description="File successfully backed up as C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\Backup\Backup\ERP\M_T_BANKA.cs">
+</Event><Event ErrorLevel="0" Project="ERP" Source="ERP\M_T_BANKA.Designer.cs" Description="File successfully backed up as C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\Backup\Backup\ERP\M_T_BANKA.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ERP" Source="ERP\M_T_GENEL.cs" Description="File successfully backed up as C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\Backup\Backup\ERP\M_T_GENEL.cs">
+</Event><Event ErrorLevel="0" Project="ERP" Source="ERP\M_T_GENEL.Designer.cs" Description="File successfully backed up as C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\Backup\Backup\ERP\M_T_GENEL.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ERP" Source="ERP\M_T_ILISKILER.cs" Description="File successfully backed up as C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\Backup\Backup\ERP\M_T_ILISKILER.cs">
+</Event><Event ErrorLevel="0" Project="ERP" Source="ERP\M_T_ILISKILER.Designer.cs" Description="File successfully backed up as C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\Backup\Backup\ERP\M_T_ILISKILER.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ERP" Source="ERP\M_T_MUHASEBE.cs" Description="File successfully backed up as C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\Backup\Backup\ERP\M_T_MUHASEBE.cs">
+</Event><Event ErrorLevel="0" Project="ERP" Source="ERP\M_T_MUHASEBE.Designer.cs" Description="File successfully backed up as C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\Backup\Backup\ERP\M_T_MUHASEBE.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ERP" Source="ERP\M_T_NOTLAR.cs" Description="File successfully backed up as C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\Backup\Backup\ERP\M_T_NOTLAR.cs">
+</Event><Event ErrorLevel="0" Project="ERP" Source="ERP\M_T_NOTLAR.Designer.cs" Description="File successfully backed up as C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\Backup\Backup\ERP\M_T_NOTLAR.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ERP" Source="ERP\Program.cs" Description="File successfully backed up as C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\Backup\Backup\ERP\Program.cs">
+</Event><Event ErrorLevel="0" Project="ERP" Source="ERP\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\Backup\Backup\ERP\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ERP" Source="ERP\RAPORLAR.cs" Description="File successfully backed up as C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\Backup\Backup\ERP\RAPORLAR.cs">
+</Event><Event ErrorLevel="0" Project="ERP" Source="ERP\RAPORLAR.Designer.cs" Description="File successfully backed up as C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\Backup\Backup\ERP\RAPORLAR.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ERP" Source="ERP\SATIS_VE_MUSTERI_ILISKILERI.cs" Description="File successfully backed up as C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\Backup\Backup\ERP\SATIS_VE_MUSTERI_ILISKILERI.cs">
+</Event><Event ErrorLevel="0" Project="ERP" Source="ERP\SATIS_VE_MUSTERI_ILISKILERI.Designer.cs" Description="File successfully backed up as C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\Backup\Backup\ERP\SATIS_VE_MUSTERI_ILISKILERI.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ERP" Source="ERP\SATIS_VE_SERVIS_YONETIMI.cs" Description="File successfully backed up as C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\Backup\Backup\ERP\SATIS_VE_SERVIS_YONETIMI.cs">
+</Event><Event ErrorLevel="0" Project="ERP" Source="ERP\SATIS_VE_SERVIS_YONETIMI.Designer.cs" Description="File successfully backed up as C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\Backup\Backup\ERP\SATIS_VE_SERVIS_YONETIMI.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ERP" Source="ERP\URUN_VE_MALZEME_YONETIMI.cs" Description="File successfully backed up as C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\Backup\Backup\ERP\URUN_VE_MALZEME_YONETIMI.cs">
+</Event><Event ErrorLevel="0" Project="ERP" Source="ERP\URUN_VE_MALZEME_YONETIMI.Designer.cs" Description="File successfully backed up as C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\Backup\Backup\ERP\URUN_VE_MALZEME_YONETIMI.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ERP" Source="ERP\UZAK_BAGLANTI_VERILERI.cs" Description="File successfully backed up as C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\Backup\Backup\ERP\UZAK_BAGLANTI_VERILERI.cs">
+</Event><Event ErrorLevel="0" Project="ERP" Source="ERP\UZAK_BAGLANTI_VERILERI.Designer.cs" Description="File successfully backed up as C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\Backup\Backup\ERP\UZAK_BAGLANTI_VERILERI.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ERP" Source="ERP\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\Backup\Backup\ERP\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ERP" Source="ERP\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\Backup\Backup\ERP\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ERP" Source="ERP\ERPDataSet.xsc" Description="File successfully backed up as C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\Backup\Backup\ERP\ERPDataSet.xsc">
+</Event><Event ErrorLevel="0" Project="ERP" Source="ERP\ERPDataSet.xsd" Description="File successfully backed up as C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\Backup\Backup\ERP\ERPDataSet.xsd">
+</Event><Event ErrorLevel="0" Project="ERP" Source="ERP\ERPDataSet.xss" Description="File successfully backed up as C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\Backup\Backup\ERP\ERPDataSet.xss">
+</Event><Event ErrorLevel="0" Project="ERP" Source="ERP\Properties\Settings.settings" Description="File successfully backed up as C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\Backup\Backup\ERP\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="ERP" Source="ERP\App.config" Description="File successfully backed up as C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\Backup\Backup\ERP\App.config">
+</Event><Event ErrorLevel="0" Project="ERP" Source="ERP\ADMIN.resx" Description="File successfully backed up as C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\Backup\Backup\ERP\ADMIN.resx">
+</Event><Event ErrorLevel="0" Project="ERP" Source="ERP\ANASAYFA.resx" Description="File successfully backed up as C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\Backup\Backup\ERP\ANASAYFA.resx">
+</Event><Event ErrorLevel="0" Project="ERP" Source="ERP\DAGITIM_VE_LOGISTIK.resx" Description="File successfully backed up as C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\Backup\Backup\ERP\DAGITIM_VE_LOGISTIK.resx">
+</Event><Event ErrorLevel="0" Project="ERP" Source="ERP\ERP_NEDIR.resx" Description="File successfully backed up as C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\Backup\Backup\ERP\ERP_NEDIR.resx">
+</Event><Event ErrorLevel="0" Project="ERP" Source="ERP\GIRIS.resx" Description="File successfully backed up as C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\Backup\Backup\ERP\GIRIS.resx">
+</Event><Event ErrorLevel="0" Project="ERP" Source="ERP\KULLANICI_ISLEMLERI.resx" Description="File successfully backed up as C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\Backup\Backup\ERP\KULLANICI_ISLEMLERI.resx">
+</Event><Event ErrorLevel="0" Project="ERP" Source="ERP\MUSTERİ-TEDARIKCI.resx" Description="File successfully backed up as C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\Backup\Backup\ERP\MUSTERİ-TEDARIKCI.resx">
+</Event><Event ErrorLevel="0" Project="ERP" Source="ERP\M_T_ADRES.resx" Description="File successfully backed up as C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\Backup\Backup\ERP\M_T_ADRES.resx">
+</Event><Event ErrorLevel="0" Project="ERP" Source="ERP\M_T_BANKA.resx" Description="File successfully backed up as C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\Backup\Backup\ERP\M_T_BANKA.resx">
+</Event><Event ErrorLevel="0" Project="ERP" Source="ERP\M_T_GENEL.resx" Description="File successfully backed up as C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\Backup\Backup\ERP\M_T_GENEL.resx">
+</Event><Event ErrorLevel="0" Project="ERP" Source="ERP\M_T_ILISKILER.resx" Description="File successfully backed up as C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\Backup\Backup\ERP\M_T_ILISKILER.resx">
+</Event><Event ErrorLevel="0" Project="ERP" Source="ERP\M_T_MUHASEBE.resx" Description="File successfully backed up as C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\Backup\Backup\ERP\M_T_MUHASEBE.resx">
+</Event><Event ErrorLevel="0" Project="ERP" Source="ERP\M_T_NOTLAR.resx" Description="File successfully backed up as C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\Backup\Backup\ERP\M_T_NOTLAR.resx">
+</Event><Event ErrorLevel="0" Project="ERP" Source="ERP\Properties\Resources.resx" Description="File successfully backed up as C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\Backup\Backup\ERP\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="ERP" Source="ERP\RAPORLAR.resx" Description="File successfully backed up as C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\Backup\Backup\ERP\RAPORLAR.resx">
+</Event><Event ErrorLevel="0" Project="ERP" Source="ERP\SATIS_VE_MUSTERI_ILISKILERI.resx" Description="File successfully backed up as C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\Backup\Backup\ERP\SATIS_VE_MUSTERI_ILISKILERI.resx">
+</Event><Event ErrorLevel="0" Project="ERP" Source="ERP\SATIS_VE_SERVIS_YONETIMI.resx" Description="File successfully backed up as C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\Backup\Backup\ERP\SATIS_VE_SERVIS_YONETIMI.resx">
+</Event><Event ErrorLevel="0" Project="ERP" Source="ERP\URUN_VE_MALZEME_YONETIMI.resx" Description="File successfully backed up as C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\Backup\Backup\ERP\URUN_VE_MALZEME_YONETIMI.resx">
+</Event><Event ErrorLevel="0" Project="ERP" Source="ERP\UZAK_BAGLANTI_VERILERI.resx" Description="File successfully backed up as C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\Backup\Backup\ERP\UZAK_BAGLANTI_VERILERI.resx">
+</Event><Event ErrorLevel="0" Project="ERP" Source="ERP\ERP.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="ERP" Source="ERP\ERP.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="ERP.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="ERP.sln" Description="Converted">
+</Event></UpgradeLog>

@@ -1,0 +1,125 @@
+c:\users\the last ottoman\documents\visual studio 2013\Projects\ERP\ERP\bin\Debug\ERP.exe.config
+c:\users\the last ottoman\documents\visual studio 2013\Projects\ERP\ERP\bin\Debug\ERP.exe
+c:\users\the last ottoman\documents\visual studio 2013\Projects\ERP\ERP\bin\Debug\ERP.pdb
+c:\users\the last ottoman\documents\visual studio 2013\Projects\ERP\ERP\obj\Debug\ERP.csprojResolveAssemblyReference.cache
+c:\users\the last ottoman\documents\visual studio 2013\Projects\ERP\ERP\obj\Debug\ERP.Form1.resources
+c:\users\the last ottoman\documents\visual studio 2013\Projects\ERP\ERP\obj\Debug\ERP.ANASAYFA.resources
+c:\users\the last ottoman\documents\visual studio 2013\Projects\ERP\ERP\obj\Debug\ERP.Properties.Resources.resources
+c:\users\the last ottoman\documents\visual studio 2013\Projects\ERP\ERP\obj\Debug\ERP.csproj.GenerateResource.Cache
+c:\users\the last ottoman\documents\visual studio 2013\Projects\ERP\ERP\obj\Debug\ERP.exe
+c:\users\the last ottoman\documents\visual studio 2013\Projects\ERP\ERP\obj\Debug\ERP.pdb
+C:\Users\The Last Ottoman\documents\visual studio 2013\Projects\ERP\ERP\obj\Debug\ERP.RAPORLAR.resources
+C:\Users\The Last Ottoman\documents\visual studio 2013\Projects\ERP\ERP\obj\Debug\ERP.DAGITIM_VE_LOGISTIK.resources
+C:\Users\The Last Ottoman\documents\visual studio 2013\Projects\ERP\ERP\obj\Debug\ERP.MUSTERİ_TEDARIKCI.resources
+C:\Users\The Last Ottoman\documents\visual studio 2013\Projects\ERP\ERP\obj\Debug\ERP.SATIS_VE_MUSTERI_ILISKILERI.resources
+C:\Users\The Last Ottoman\documents\visual studio 2013\Projects\ERP\ERP\obj\Debug\ERP.SATIS_VE_SERVIS_YONETIMI.resources
+C:\Users\The Last Ottoman\documents\visual studio 2013\Projects\ERP\ERP\obj\Debug\ERP.URUN_VE_MALZEME_YONETIMI.resources
+C:\Users\The Last Ottoman\documents\visual studio 2013\Projects\ERP\ERP\obj\Debug\ERP.ERP_NEDIR.resources
+C:\Users\The Last Ottoman\documents\visual studio 2013\Projects\ERP\ERP\obj\Debug\ERP.M_T_ADRES.resources
+C:\Users\The Last Ottoman\documents\visual studio 2013\Projects\ERP\ERP\obj\Debug\ERP.M_T_BANKA.resources
+C:\Users\The Last Ottoman\documents\visual studio 2013\Projects\ERP\ERP\obj\Debug\ERP.M_T_GENEL.resources
+C:\Users\The Last Ottoman\documents\visual studio 2013\Projects\ERP\ERP\obj\Debug\ERP.M_T_ILISKILER.resources
+C:\Users\The Last Ottoman\documents\visual studio 2013\Projects\ERP\ERP\obj\Debug\ERP.M_T_MUHASEBE.resources
+C:\Users\The Last Ottoman\documents\visual studio 2013\Projects\ERP\ERP\obj\Debug\ERP.M_T_NOTLAR.resources
+C:\Users\The Last Ottoman\documents\visual studio 2013\Projects\ERP\ERP\obj\Debug\Interop.DXTRANSLib.dll
+C:\Users\The Last Ottoman\documents\visual studio 2013\Projects\ERP\ERP\obj\Debug\Interop.ExcelAdaptorLib.dll
+C:\Users\The Last Ottoman\documents\visual studio 2013\Projects\ERP\ERP\obj\Debug\Interop.InteropExtensionLib.dll
+C:\Users\The Last Ottoman\documents\visual studio 2013\Projects\ERP\ERP\obj\Debug\Interop.MSDATASRC.dll
+C:\Users\The Last Ottoman\documents\visual studio 2013\Projects\ERP\ERP\obj\Debug\Interop.MSXML2.dll
+C:\Users\The Last Ottoman\documents\visual studio 2013\Projects\ERP\ERP\obj\Debug\ERP.csproj.ResolveComReference.cache
+C:\Users\The Last Ottoman\documents\visual studio 2013\Projects\ERP\ERP\obj\Debug\ERP.UZAK_BAGLANTI_VERILERI.resources
+C:\Users\The Last Ottoman\documents\visual studio 2013\Projects\ERP\ERP\obj\Debug\ERP.GIRIS.resources
+C:\Users\The Last Ottoman\documents\visual studio 2013\Projects\ERP\ERP\obj\Debug\ERP.KULLANICI_ISLEMLERI.resources
+C:\Users\asus\Desktop\damla_Erp - Kopya\ERP PROJE\ERP\ERP\bin\Debug\ERP.exe.config
+C:\Users\asus\Desktop\damla_Erp - Kopya\ERP PROJE\ERP\ERP\bin\Debug\ERP.exe
+C:\Users\asus\Desktop\damla_Erp - Kopya\ERP PROJE\ERP\ERP\bin\Debug\ERP.pdb
+C:\Users\asus\Desktop\damla_Erp - Kopya\ERP PROJE\ERP\ERP\obj\Debug\Interop.DXTRANSLib.dll
+C:\Users\asus\Desktop\damla_Erp - Kopya\ERP PROJE\ERP\ERP\obj\Debug\Interop.ExcelAdaptorLib.dll
+C:\Users\asus\Desktop\damla_Erp - Kopya\ERP PROJE\ERP\ERP\obj\Debug\Interop.InteropExtensionLib.dll
+C:\Users\asus\Desktop\damla_Erp - Kopya\ERP PROJE\ERP\ERP\obj\Debug\Interop.MSDATASRC.dll
+C:\Users\asus\Desktop\damla_Erp - Kopya\ERP PROJE\ERP\ERP\obj\Debug\Interop.MSXML2.dll
+C:\Users\asus\Desktop\damla_Erp - Kopya\ERP PROJE\ERP\ERP\obj\Debug\ERP.csproj.ResolveComReference.cache
+C:\Users\asus\Desktop\damla_Erp - Kopya\ERP PROJE\ERP\ERP\obj\Debug\ERP.Form1.resources
+C:\Users\asus\Desktop\damla_Erp - Kopya\ERP PROJE\ERP\ERP\obj\Debug\ERP.ANASAYFA.resources
+C:\Users\asus\Desktop\damla_Erp - Kopya\ERP PROJE\ERP\ERP\obj\Debug\ERP.DAGITIM_VE_LOGISTIK.resources
+C:\Users\asus\Desktop\damla_Erp - Kopya\ERP PROJE\ERP\ERP\obj\Debug\ERP.ERP_NEDIR.resources
+C:\Users\asus\Desktop\damla_Erp - Kopya\ERP PROJE\ERP\ERP\obj\Debug\ERP.GIRIS.resources
+C:\Users\asus\Desktop\damla_Erp - Kopya\ERP PROJE\ERP\ERP\obj\Debug\ERP.KULLANICI_ISLEMLERI.resources
+C:\Users\asus\Desktop\damla_Erp - Kopya\ERP PROJE\ERP\ERP\obj\Debug\ERP.MUSTERİ_TEDARIKCI.resources
+C:\Users\asus\Desktop\damla_Erp - Kopya\ERP PROJE\ERP\ERP\obj\Debug\ERP.M_T_ADRES.resources
+C:\Users\asus\Desktop\damla_Erp - Kopya\ERP PROJE\ERP\ERP\obj\Debug\ERP.M_T_BANKA.resources
+C:\Users\asus\Desktop\damla_Erp - Kopya\ERP PROJE\ERP\ERP\obj\Debug\ERP.M_T_GENEL.resources
+C:\Users\asus\Desktop\damla_Erp - Kopya\ERP PROJE\ERP\ERP\obj\Debug\ERP.M_T_ILISKILER.resources
+C:\Users\asus\Desktop\damla_Erp - Kopya\ERP PROJE\ERP\ERP\obj\Debug\ERP.M_T_MUHASEBE.resources
+C:\Users\asus\Desktop\damla_Erp - Kopya\ERP PROJE\ERP\ERP\obj\Debug\ERP.M_T_NOTLAR.resources
+C:\Users\asus\Desktop\damla_Erp - Kopya\ERP PROJE\ERP\ERP\obj\Debug\ERP.Properties.Resources.resources
+C:\Users\asus\Desktop\damla_Erp - Kopya\ERP PROJE\ERP\ERP\obj\Debug\ERP.RAPORLAR.resources
+C:\Users\asus\Desktop\damla_Erp - Kopya\ERP PROJE\ERP\ERP\obj\Debug\ERP.SATIS_VE_MUSTERI_ILISKILERI.resources
+C:\Users\asus\Desktop\damla_Erp - Kopya\ERP PROJE\ERP\ERP\obj\Debug\ERP.SATIS_VE_SERVIS_YONETIMI.resources
+C:\Users\asus\Desktop\damla_Erp - Kopya\ERP PROJE\ERP\ERP\obj\Debug\ERP.URUNVEMALZEMEYONETIMI.resources
+C:\Users\asus\Desktop\damla_Erp - Kopya\ERP PROJE\ERP\ERP\obj\Debug\ERP.UZAK_BAGLANTI_VERILERI.resources
+C:\Users\asus\Desktop\damla_Erp - Kopya\ERP PROJE\ERP\ERP\obj\Debug\ERP.csproj.GenerateResource.Cache
+C:\Users\asus\Desktop\damla_Erp - Kopya\ERP PROJE\ERP\ERP\obj\Debug\ERP.exe
+C:\Users\asus\Desktop\damla_Erp - Kopya\ERP PROJE\ERP\ERP\obj\Debug\ERP.pdb
+C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\ERP\bin\Debug\ERP.exe.config
+C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\ERP\obj\Debug\Interop.DXTRANSLib.dll
+C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\ERP\obj\Debug\Interop.ExcelAdaptorLib.dll
+C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\ERP\obj\Debug\Interop.InteropExtensionLib.dll
+C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\ERP\obj\Debug\Interop.MSDATASRC.dll
+C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\ERP\obj\Debug\Interop.MSXML2.dll
+C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\ERP\obj\Debug\ERP.csproj.ResolveComReference.cache
+C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\ERP\obj\Debug\ERP.exe
+C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\ERP\obj\Debug\ERP.pdb
+C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\ERP\bin\Debug\ERP.exe
+C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\ERP\bin\Debug\ERP.pdb
+C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\ERP\obj\Debug\ERP.Form1.resources
+C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\ERP\obj\Debug\ERP.ANASAYFA.resources
+C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\ERP\obj\Debug\ERP.DAGITIM_VE_LOGISTIK.resources
+C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\ERP\obj\Debug\ERP.ERP_NEDIR.resources
+C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\ERP\obj\Debug\ERP.GIRIS.resources
+C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\ERP\obj\Debug\ERP.KULLANICI_ISLEMLERI.resources
+C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\ERP\obj\Debug\ERP.MUSTERİ_TEDARIKCI.resources
+C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\ERP\obj\Debug\ERP.M_T_ADRES.resources
+C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\ERP\obj\Debug\ERP.M_T_BANKA.resources
+C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\ERP\obj\Debug\ERP.M_T_GENEL.resources
+C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\ERP\obj\Debug\ERP.M_T_ILISKILER.resources
+C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\ERP\obj\Debug\ERP.M_T_MUHASEBE.resources
+C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\ERP\obj\Debug\ERP.M_T_NOTLAR.resources
+C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\ERP\obj\Debug\ERP.Properties.Resources.resources
+C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\ERP\obj\Debug\ERP.RAPORLAR.resources
+C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\ERP\obj\Debug\ERP.SATIS_VE_MUSTERI_ILISKILERI.resources
+C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\ERP\obj\Debug\ERP.SATIS_VE_SERVIS_YONETIMI.resources
+C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\ERP\obj\Debug\ERP.URUNVEMALZEMEYONETIMI.resources
+C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\ERP\obj\Debug\ERP.UZAK_BAGLANTI_VERILERI.resources
+C:\Users\asus\Desktop\damla_ERP\ERP PROJE\ERP\ERP\obj\Debug\ERP.csproj.GenerateResource.Cache
+C:\Users\asus\Desktop\webprog\damla_ERP\SATIŞ-DAĞITIM PROJESİ(19.07.2017)\ERP\bin\Debug\ERP.exe.config
+C:\Users\asus\Desktop\webprog\damla_ERP\SATIŞ-DAĞITIM PROJESİ(19.07.2017)\ERP\obj\Debug\Interop.DXTRANSLib.dll
+C:\Users\asus\Desktop\webprog\damla_ERP\SATIŞ-DAĞITIM PROJESİ(19.07.2017)\ERP\obj\Debug\Interop.InteropExtensionLib.dll
+C:\Users\asus\Desktop\webprog\damla_ERP\SATIŞ-DAĞITIM PROJESİ(19.07.2017)\ERP\obj\Debug\Interop.MSDATASRC.dll
+C:\Users\asus\Desktop\webprog\damla_ERP\SATIŞ-DAĞITIM PROJESİ(19.07.2017)\ERP\obj\Debug\Interop.MSXML2.dll
+C:\Users\asus\Desktop\webprog\damla_ERP\SATIŞ-DAĞITIM PROJESİ(19.07.2017)\ERP\obj\Debug\ERP.csproj.ResolveComReference.cache
+C:\Users\asus\Desktop\webprog\damla_ERP\SATIŞ-DAĞITIM PROJESİ(19.07.2017)\ERP\obj\Debug\ERP.exe
+C:\Users\asus\Desktop\webprog\damla_ERP\SATIŞ-DAĞITIM PROJESİ(19.07.2017)\ERP\obj\Debug\ERP.pdb
+C:\Users\asus\Desktop\webprog\damla_ERP\SATIŞ-DAĞITIM PROJESİ(19.07.2017)\ERP\bin\Debug\ERP.exe
+C:\Users\asus\Desktop\webprog\damla_ERP\SATIŞ-DAĞITIM PROJESİ(19.07.2017)\ERP\bin\Debug\ERP.pdb
+C:\Users\asus\Desktop\webprog\damla_ERP\SATIŞ-DAĞITIM PROJESİ(19.07.2017)\ERP\obj\Debug\ERP.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\webprog\damla_ERP\SATIŞ-DAĞITIM PROJESİ(19.07.2017)\ERP\obj\Debug\ERP.Form1.resources
+C:\Users\asus\Desktop\webprog\damla_ERP\SATIŞ-DAĞITIM PROJESİ(19.07.2017)\ERP\obj\Debug\ERP.ANASAYFA.resources
+C:\Users\asus\Desktop\webprog\damla_ERP\SATIŞ-DAĞITIM PROJESİ(19.07.2017)\ERP\obj\Debug\ERP.DAGITIM_VE_LOGISTIK.resources
+C:\Users\asus\Desktop\webprog\damla_ERP\SATIŞ-DAĞITIM PROJESİ(19.07.2017)\ERP\obj\Debug\ERP.ERP_NEDIR.resources
+C:\Users\asus\Desktop\webprog\damla_ERP\SATIŞ-DAĞITIM PROJESİ(19.07.2017)\ERP\obj\Debug\ERP.GIRIS.resources
+C:\Users\asus\Desktop\webprog\damla_ERP\SATIŞ-DAĞITIM PROJESİ(19.07.2017)\ERP\obj\Debug\ERP.KULLANICI_ISLEMLERI.resources
+C:\Users\asus\Desktop\webprog\damla_ERP\SATIŞ-DAĞITIM PROJESİ(19.07.2017)\ERP\obj\Debug\ERP.MUSTERİ_TEDARIKCI.resources
+C:\Users\asus\Desktop\webprog\damla_ERP\SATIŞ-DAĞITIM PROJESİ(19.07.2017)\ERP\obj\Debug\ERP.M_T_ADRES.resources
+C:\Users\asus\Desktop\webprog\damla_ERP\SATIŞ-DAĞITIM PROJESİ(19.07.2017)\ERP\obj\Debug\ERP.M_T_BANKA.resources
+C:\Users\asus\Desktop\webprog\damla_ERP\SATIŞ-DAĞITIM PROJESİ(19.07.2017)\ERP\obj\Debug\ERP.M_T_GENEL.resources
+C:\Users\asus\Desktop\webprog\damla_ERP\SATIŞ-DAĞITIM PROJESİ(19.07.2017)\ERP\obj\Debug\ERP.M_T_ILISKILER.resources
+C:\Users\asus\Desktop\webprog\damla_ERP\SATIŞ-DAĞITIM PROJESİ(19.07.2017)\ERP\obj\Debug\ERP.M_T_MUHASEBE.resources
+C:\Users\asus\Desktop\webprog\damla_ERP\SATIŞ-DAĞITIM PROJESİ(19.07.2017)\ERP\obj\Debug\ERP.M_T_NOTLAR.resources
+C:\Users\asus\Desktop\webprog\damla_ERP\SATIŞ-DAĞITIM PROJESİ(19.07.2017)\ERP\obj\Debug\ERP.Properties.Resources.resources
+C:\Users\asus\Desktop\webprog\damla_ERP\SATIŞ-DAĞITIM PROJESİ(19.07.2017)\ERP\obj\Debug\ERP.RAPORLAR.resources
+C:\Users\asus\Desktop\webprog\damla_ERP\SATIŞ-DAĞITIM PROJESİ(19.07.2017)\ERP\obj\Debug\ERP.SATIS_VE_MUSTERI_ILISKILERI.resources
+C:\Users\asus\Desktop\webprog\damla_ERP\SATIŞ-DAĞITIM PROJESİ(19.07.2017)\ERP\obj\Debug\ERP.SATIS_VE_SERVIS_YONETIMI.resources
+C:\Users\asus\Desktop\webprog\damla_ERP\SATIŞ-DAĞITIM PROJESİ(19.07.2017)\ERP\obj\Debug\ERP.URUNVEMALZEMEYONETIMI.resources
+C:\Users\asus\Desktop\webprog\damla_ERP\SATIŞ-DAĞITIM PROJESİ(19.07.2017)\ERP\obj\Debug\ERP.UZAK_BAGLANTI_VERILERI.resources
+C:\Users\asus\Desktop\webprog\damla_ERP\SATIŞ-DAĞITIM PROJESİ(19.07.2017)\ERP\obj\Debug\ERP.csproj.GenerateResource.Cache
